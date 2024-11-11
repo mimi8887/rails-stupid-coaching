@@ -13,3 +13,26 @@
  *= require_tree .
  *= require_self
  */
+
+ h1, body {
+  font-family: Arial, Helvetica, sans-serif;
+ }
+
+.post {
+  border-left: 6px solid rgb(202, 202, 202);
+  }
+
+#answer {
+    background-color: rgb(255, 249, 217);
+}
+
+#ask-button {
+  background-color: rgb(67, 79, 184);
+  font-weight: bolder;
+  color: white;
+  border-top-right-radius: 15%;
+  border-bottom-right-radius: 15%;
+}
+
+#question-bar {
+}
